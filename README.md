@@ -1,9 +1,9 @@
 ### Hi there, I'm Prakash Chandra Awal - aka TheChanDI
 
-## I'm a Mobile App Developer for past 3 years.
+## I'm a Mobile App Developer for past 3 years.🧑🏻‍💻
 
-- 🌱 I’m currently learning working as iOS Developer at EK Solutions.[<img align="left" alt="TheChanDI | Twitter" width="20px" src="https://ekbana.com/frontend/images/logo-colorful.png" />][ekbana]
-- 🥅 I love to create Animations & apps.
+- 🌱 I’m currently working as an iOS Developer at EK Solutions.[<img align="left" alt="TheChanDI | Twitter" width="20px" src="https://ekbana.com/frontend/images/logo-colorful.png" />][ekbana]
+- 📱 I love to create Animations & apps.
 - ⚡ Fun fact: Love Swimming, camping, backpacking and exloring new places. If not coding then probably gaming ! 🎮
 
 ### Connect with me:
