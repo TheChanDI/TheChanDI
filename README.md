@@ -2,13 +2,13 @@
 
 ## I'm a Mobile App Developer for past 3 years.🧑🏻‍💻
 
-- 🌱 I’m currently working as an iOS Developer at EK Solutions.[<img align="left" alt="TheChanDI | Twitter" width="20px" src="https://ekbana.com/frontend/images/logo-colorful.png" />][ekbana]
+- 🌱 I’m currently working as an iOS Developer at EK Solutions.
 - 📱 I love to create Animations & apps.
 - ⚡ Fun fact: Love Swimming, camping, backpacking and exloring new places. If not coding then probably gaming ! 🎮
 
 ### Connect with me:
 
-[<img align="right" alt="TheChanDI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="TheChanDI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="TheChanDI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TheChanDI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TheChanDI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
