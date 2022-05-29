@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working as an iOS Developer at EK Solutions.
 - 📱 I love to create Animations & apps.
-- ⚡ Fun fact: Love Swimming, camping, backpacking and exloring new places. If not coding then probably gaming ! 🎮
+- ⚡ Fun fact: Love Swimming, camping, backpacking and exploring new places. If not coding then probably gaming ! 🎮
 
 ### Connect with me:
 
