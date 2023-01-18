@@ -2,7 +2,7 @@
 
 ## I'm a Mobile App Developer for past 4 years.🧑🏻‍💻
 
-- 🌱 I’m currently working as a freelance developer.
+- 🌱 I’m currently working as a Mobile Application developer at Fusemachines.
 - 📱 I love to create Animations & apps.
 - ⚡ Fun fact: Love Swimming, camping, backpacking and exploring new places. If not coding then probably gaming ! 🎮
 
