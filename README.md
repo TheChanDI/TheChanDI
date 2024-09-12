@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://chris-ayers.com/assets/images/vscode-logo.png" />][xcode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://w7.pngwing.com/pngs/505/718/png-transparent-xcode-macos-bigsur-icon-thumbnail.png" />][xcode]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://ih0.redbubble.net/image.415946483.7473/flat,1000x1000,075,f.u1.jpg" />][swift]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
