@@ -1,4 +1,4 @@
-### Hi there, I'm Prakash Chandra Awal - aka TheChanDI
+### Hi there, I'm Prakash Chandra Awal
 
 ## I'm a Frontend Developer for past 5 years.🧑🏻‍💻
 
